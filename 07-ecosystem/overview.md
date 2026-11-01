@@ -11,6 +11,7 @@ This is a **working reference index**, not a ranking or a list of endorsements. 
 | Need | Start here |
 |---|---|
 | Measure team adoption and reported time savings | [Microsoft CoworkDashboard](https://github.com/microsoft/CoworkDashboard) |
+| Analyse Cowork usage, credit concentration and trends | [Cowork Super User Report](https://github.com/microsoft/CoworkSuperUser) |
 | Assess whether a workflow is a good fit for Cowork | [Copilot Cowork Investment Assessment](https://github.com/microsoft/cowork-investment-assessment) |
 | Find practical M365 Copilot prompts and skills | [PnP Copilot Prompts](https://github.com/pnp/copilot-prompts) |
 | Browse reusable skills across agent platforms | [Anthropic Skills](https://github.com/anthropics/skills) or [Awesome Agent Skills](https://github.com/VoltAgent/awesome-agent-skills) |
@@ -25,6 +26,14 @@ A two-skill Microsoft Copilot Cowork sample: one skill lets team members review 
 **Use it when:** piloting Cowork with a team and looking for a practical way to collect opt-in productivity and adoption signals.
 
 **Keep in mind:** the project README says this is not an official Microsoft Cowork skill. Review the privacy model and the current setup instructions with your organisation before using it. It reads reports submitted to the configured Teams channel, not team members' files directly.
+
+### [microsoft/CoworkSuperUser](https://github.com/microsoft/CoworkSuperUser)
+
+A Power BI template that turns a Viva Insights Cowork metrics export into a report on usage, credit consumption, power-user patterns, cost concentration, trends and directional value modelling. It includes synthetic sample data, a setup guide and an interpretation guide.
+
+**Use it when:** analysing where Cowork credits are being consumed, comparing usage patterns across teams, understanding scheduled versus user-initiated activity, and preparing a data-informed adoption or cost review.
+
+**Keep in mind:** it requires an eligible Viva Insights/Copilot metrics export and Power BI Desktop. The README identifies prerequisites including at least 50 Copilot or Viva Insights licences and global access to the Copilot Dashboard. Identified user data is sensitive and should only be enabled and accessed by authorised analysts. Value modelling is assumption-based and directional, not a definitive ROI measure.
 
 ### [microsoft/cowork-investment-assessment](https://github.com/microsoft/cowork-investment-assessment)
 
