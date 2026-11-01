@@ -13,6 +13,10 @@ Skills are written as portable Markdown playbooks. Some tools support `SKILL.md`
 - [Formal verification](formal-verification/SKILL.md) — **explicit invocation only**; activates only when the user invokes the trigger phrase `formal verficication` or explicitly calls the skill by name.
 - [Presentation builder](presentation-builder/SKILL.md)
 - [Customer response draft](customer-response-draft/SKILL.md)
+- [Security change review](security-change-review/SKILL.md)
+- [Incident report synthesis](incident-report-synthesis/SKILL.md)
+- [Adversarial plan review](adversarial-plan-review/SKILL.md)
+- [Script explainer](script-explainer/SKILL.md)
 
 ## Skill quality standard
 

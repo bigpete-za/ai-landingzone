@@ -8,6 +8,18 @@
 
 > Convert these meeting notes or transcript excerpts into concise minutes. Include: summary, decisions explicitly made, actions (action / owner / due date), risks or dependencies, and unresolved questions. Use `Not stated` where owner or date is missing. Preserve dissent and uncertainty. Do not invent consensus or decisions.
 
+## Two-pass meeting distillation
+
+**Pass 1 — extract before formatting**
+
+> From this approved transcript or transcript excerpt, extract only: key discussion points, explicit decisions, proposed ideas, actions, named owners, stated due dates, blockers, open questions and relevant speaker attribution. Include short source excerpts or timestamps where available. Mark uncertain attribution and missing details. Do not write polished minutes yet.
+
+**Pass 2 — structure and verify**
+
+> Turn the extracted items into a concise project brief and action register using this structure: objective, decisions, workstreams, actions (action / owner / due date / dependency / source), blockers and open questions. Do not promote a proposal into a decision. Check the output against the transcript; preserve disagreements and uncertainty. Use `Not stated` for missing owners or dates.
+
+Splitting extraction from formatting makes the intermediate facts easier to inspect. It does not remove the need to check transcript quality or attribution.
+
 ## Draft a follow-up
 
 > Draft a follow-up message for attendees based on the approved minutes below. Highlight decisions and actions, clearly identify unassigned items, and ask owners to correct inaccuracies by `[date]`. Do not imply that proposed actions have been accepted if they were not agreed.

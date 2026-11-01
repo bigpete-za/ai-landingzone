@@ -19,6 +19,14 @@
 >
 > Distinguish objective errors from stylistic preferences. Do not invent policy or facts. Then offer a revised draft only after the review.
 
+## Challenge a plan before committing
+
+For a plan, rollout or migration, use a structured adversarial pass rather than only asking for general criticism:
+
+> Assume this plan could fail. Generate distinct, plausible failure scenarios across people, process, technology, dependencies, timing, security and adoption. For each, state the trigger, likely consequence, warning sign, evidence available, and a proportionate mitigation. Rate likelihood and impact using the supplied scale; label unsupported ratings as estimates. Identify the few risks that could change the decision. Do not invent environmental facts or repeat the same scenario in different words.
+
+For a repeatable procedure, see [Adversarial Plan Review](../05-skills-and-workflows/adversarial-plan-review/SKILL.md). This is a structured review technique, not a guarantee that every failure mode will be found.
+
 **Useful follow-ups**
 
 - Apply only the high-priority corrections.

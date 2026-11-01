@@ -2,6 +2,7 @@
 
 Copy-ready examples for everyday knowledge work. Start with the closest task and replace the placeholders. Prompts are tool-agnostic unless a Microsoft 365 app is explicitly named.
 
+- [Ways of Working with AI](ways-of-working-with-ai.md) — approaches such as few-shot examples, staged work, grounding, adversarial review and AI-assisted critique.
 - [Email](email/README.md) — draft, rewrite, reply and triage.
 - [Meetings](meetings/README.md) — prepare, summarise and follow up.
 - [Research](research/README.md) — explore, compare and create evidence-backed briefs.
