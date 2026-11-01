@@ -22,6 +22,7 @@ This is a **working library**, not a course in machine learning and not a develo
 | [04 Copilot Guides](04-copilot-guides/README.md) | M365 Copilot tool selection, grounding, app-oriented guidance and limitations |
 | [05 Skills and Workflows](05-skills-and-workflows/README.md) | Portable `SKILL.md` playbooks for repeatable tasks |
 | [06 Reference](06-reference/README.md) | Glossary, checklists, evaluation, adoption playbook |
+| [07 Ecosystem](07-ecosystem/overview.md) | Curated GitHub repositories for Cowork, prompts, skills, learning, plugins and AI workflows |
 | [resources](resources/README.md) | External sources, attribution, and contributor templates |
 
 ## Guiding principles
