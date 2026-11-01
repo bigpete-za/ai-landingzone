@@ -17,6 +17,8 @@ Useful instruction:
 
 > Separate sourced facts, your analysis and assumptions. For each material factual claim, cite the supplied source and indicate where it appears. If you cannot support a claim from the sources, label it `unverified` or omit it. List conflicting evidence and unresolved questions. Do not invent citations.
 
+For a more structured review, use [Formal Verification Mode](../02-prompt-patterns/formal-verification-mode.md). For draft-quality feedback, use the [Critic Pattern](../02-prompt-patterns/critic.md).
+
 ## Check more carefully when
 
 - The information is recent, regulated, contractual or policy-related.
@@ -36,3 +38,5 @@ Useful instruction:
 ## Never accept as evidence
 
 A citation that does not resolve, a quotation you cannot find, a calculation without inspectable inputs, or a confident statement without supporting evidence.
+
+**Remember:** an AI's review of its own answer is not independent verification. Check critical claims against primary sources, original records or independently validated calculations.
