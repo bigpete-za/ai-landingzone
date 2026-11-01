@@ -10,6 +10,7 @@ Last reviewed: 2026-11-01. These are starting points, not endorsements. Prefer o
 | [PnP Copilot Prompt Gallery website](https://pnp.github.io/copilot-prompts/) | Searchable and filterable gallery, with previews, metadata, setup and source/download links | Discover examples by product, task and audience. |
 | [PnP Skill Schema](https://github.com/pnp/copilot-prompts/blob/main/SKILL-SCHEMA.md) | Describes the gallery's skill sample conventions | Use as a reference when adding Copilot-compatible skills; keep our base skill content portable. |
 | [Liatrio Labs AI Prompts](https://github.com/liatrio-labs/ai-prompts) | Curated prompt and skill library with task-oriented folders and prompt-to-skill migration examples | Borrow the small, focused file approach and the distinction between a one-shot prompt and a repeatable skill. Its examples are mainly software-development oriented. |
+| [Formal Verification Mode — prompts.chat](https://prompts.chat/prompts/cmois3iex0001ky0448nsw0aw_formal-verification-mode) | A prompt framework for explicit assumptions, consistency checks, conclusion classification and limitations | Adapted as [Formal Verification Mode](../02-prompt-patterns/formal-verification-mode.md), credited to Prompts Chat. This version adds evidence provenance, proportional output and an explicit warning that AI self-review is not independent verification. Check the source's applicable licence before further redistribution. |
 
 ## 2. Microsoft Copilot prompting and adoption
 
