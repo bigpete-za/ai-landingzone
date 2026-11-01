@@ -16,4 +16,10 @@
 
 > Extract actions from this report. Group by priority and workstream. For each action include source section, proposed action, expected outcome, owner if stated, deadline if stated and dependency. Mark inferred suggestions clearly as proposals.
 
-**Human check:** reporting period, KPI definitions, denominators, calculations, trends, missing data, causal claims and approvals.
+## Synthesize an incident report from evidence
+
+> Create a draft post-incident report from the supplied timeline, incident notes, tickets and recovery evidence. Use the approved report template and prior reports only as examples of structure and level of detail; do not reuse their facts. Include impact, timeline, detection, response, recovery, confirmed cause or explicit unknowns, contributing factors, lessons and corrective actions. For each material claim, retain a source reference. Separate confirmed facts from hypotheses, identify conflicting evidence and use `Not stated` for missing owners or due dates. Do not infer root cause from similarity to a prior incident.
+
+For a repeatable procedure, see [Incident Report Synthesis](../../05-skills-and-workflows/incident-report-synthesis/SKILL.md).
+
+**Human check:** reporting period, KPI definitions, denominators, calculations, trends, missing data, causal claims and approvals. For incident reports, verify timestamps, impact, source traceability, root-cause claims and corrective-action owners.
