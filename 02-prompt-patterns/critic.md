@@ -26,3 +26,5 @@
 - Check for unsupported claims, hidden assumptions and unintended commitments.
 
 **Verify:** the reviewer has the right source documents and is not introducing unsupported edits.
+
+**Related:** use [Formal Verification Mode](formal-verification-mode.md) when you need explicit assumptions, evidence tracing, consistency checks and a calibrated conclusion. See also [Foundations: Verification](../01-foundations/verification.md).
