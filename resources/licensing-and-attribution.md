@@ -14,6 +14,7 @@ This repository is inspired by public prompt and skill collections. Inspiration 
 
 - [PnP Copilot Prompts](https://github.com/pnp/copilot-prompts): the repository identifies an MIT licence. Confirm the current `LICENSE` and any sample-specific notices before copying or adapting. Include the required copyright and licence notice when redistributing covered code/content.
 - [Liatrio Labs AI Prompts](https://github.com/liatrio-labs/ai-prompts): the repository README identifies Apache License 2.0. Confirm the current `LICENSE` and any `NOTICE` file or attribution requirements before reusing material.
+- [Formal Verification Mode on prompts.chat](https://prompts.chat/prompts/cmois3iex0001ky0448nsw0aw_formal-verification-mode): the listing credits Prompts Chat. This repository's [adaptation](../02-prompt-patterns/formal-verification-mode.md) is attributed and describes its changes. No separate licence was confirmed during this adaptation; check the source's current terms before further redistribution.
 
 ## This repository
 
