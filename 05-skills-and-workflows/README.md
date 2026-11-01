@@ -10,6 +10,7 @@ Skills are written as portable Markdown playbooks. Some tools support `SKILL.md`
 - [Research brief](research-brief/SKILL.md)
 - [Weekly status report](weekly-status-report/SKILL.md)
 - [Document review](document-review/SKILL.md)
+- [Formal verification](formal-verification/SKILL.md) — **explicit invocation only**; activates only when the user invokes the trigger phrase `formal verficication` or explicitly calls the skill by name.
 - [Presentation builder](presentation-builder/SKILL.md)
 - [Customer response draft](customer-response-draft/SKILL.md)
 
